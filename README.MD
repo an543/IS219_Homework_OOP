@@ -1,5 +1,2 @@
-[![Coverage Status](https://coveralls.io/repos/github/kaw393939/IS219CalcNew/badge.svg?branch=master)](https://coveralls.io/github/kaw393939/IS219CalcNew?branch=master)
-[![Build Status](https://travis-ci.com/kaw393939/IS219CalcNew.svg?branch=master)](https://travis-ci.com/kaw393939/IS219CalcNew)
-
-Step 1:  Clone repo
-Step 2:  Run "npm install"
+Article: https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/
+Article 2: https://medium.com/@wbl.pauline/how-to-build-a-calculator-using-javascript-no-more-than-100-lines-of-js-code-b9bd087a14e8
